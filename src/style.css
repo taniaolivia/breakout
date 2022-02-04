@@ -1,0 +1,52 @@
+#canvas 
+{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    font-family : "arial";
+}
+
+#button1
+{
+    background-color: #44E87A;
+    color: white;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 50px;
+}
+
+#button2
+{
+    background-color: limegreen;
+    color: white;
+    border-style: none;
+    border-radius: 5px 5px 5px 5px;
+    font-size: 15px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 30px;
+}
+
+#score
+{
+    color: white;
+    background-color: cornflowerblue;
+    width : 250px;
+    padding : 20px 20px 20px 20px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#container1
+{
+    font-family : "arial";
+    margin-top: -52.5%;
+    margin-left : 52%;
+}
+
+#container2
+{
+    font-family : "arial";
+    margin-top: 20px;
+    margin-left : 52%;
+}
+
